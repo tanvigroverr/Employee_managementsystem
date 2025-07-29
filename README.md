@@ -1,4 +1,4 @@
-# Employee_managementsystem
+# Employee Management System
 
 ## Description
 A web-based Java application to manage employee records using Spring MVC, Hibernate, and MySQL with role-based access control.
@@ -27,4 +27,5 @@ A web-based Java application to manage employee records using Spring MVC, Hibern
 ## How to Run
 1. Import project in Eclipse/IntelliJ as Maven Project
 2. Configure Tomcat
-3. Run the project 
+3. Run the project and open `http://localhost:8080/`
+
